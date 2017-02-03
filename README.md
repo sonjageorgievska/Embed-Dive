@@ -6,7 +6,7 @@ Please also cite the paper on LargeVis as stated [here](https://github.com/lferr
 
 # Embed-Dive
 
-Embed-Dive is a pipeline consisting of [LargeVis](https://github.com/lferry007/LargeVis) and [DiVE](http://github.com/sonjageorgievska/DiVE/). Please visit the respective repositories for more information, individual licencing etc.
+Embed-Dive is a pipeline consisting of [LargeVis](https://github.com/lferry007/LargeVis) and [DiVE](http://github.com/sonjageorgievska/DiVE/). Please visit the respective repositories for more information, individual licencing, latest versions etc.
 
 The purpose of this repository is to provide a release of the pipeline to (for the moment) Linux users that want to explore their data, provided that the input is a [similarities graph](https://github.com/sonjageorgievska/Embed-Dive/blob/master/test/sim.txt). 
 
