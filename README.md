@@ -38,7 +38,7 @@ Besides the two parameters, other optional parameters include:
 Best practices: 
 
 * Do not use the -samples parameter; let the embedding use the default value. Use -samples 1 only if you want quick results.
-* Use -outdim 2 unless the results are very different than with -outdim 3.
+* Use -outdim 2 unless the visualization results are very different than with -outdim 3.
 * The similarities graph does not need to contain duplicate edges (does not need to be bi-directional)
 * Use the -json parameter so that you can easily load the coordinates in DiVE at any later stage. Computing the coordinates with  LargeVis takes a lot of time, it only needs to be done once.
 * If you forgot to include metadata before computing coordinates, you can combine the coordinates with metadata later as described here [DiVE](http://github.com/sonjageorgievska/DiVE/) (""From output of LargeVis to input of DiVE")
