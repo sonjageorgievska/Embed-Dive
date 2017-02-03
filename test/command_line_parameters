@@ -1,0 +1,1 @@
+./Embed_Dive -input test/sim.txt -output test/coord.txt -outdim 3 -samples 1
