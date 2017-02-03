@@ -1,3 +1,9 @@
+Please cite the software if you are using it in your scientific publication. 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.268444.svg)](https://doi.org/10.5281/zenodo.268444)
+
+Please also cite the paper on LargeVis as stated [here](https://github.com/lferry007/LargeVis).
+
 # Embed-Dive
 
 Embed-Dive is a pipeline consisting of [LargeVis](https://github.com/lferry007/LargeVis) and [DiVE](http://github.com/sonjageorgievska/DiVE/). Please visit the respective repositories for more information, individual licencing etc.
