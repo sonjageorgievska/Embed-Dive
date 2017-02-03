@@ -4,6 +4,8 @@ Embed-Dive is a pipeline consisting of [LargeVis](https://github.com/lferry007/L
 
 The purpose of this repository is to provide a release of the pipeline to (for the moment) Linux users that want to explore their data, provided that the input is a [similarities graph](https://github.com/sonjageorgievska/Embed-Dive/blob/master/test/sim.txt). 
 
+![Screenshot](img/pipeline.png)
+
 ##Usage - for Linux users ##
 
 Download the compiled version of Embed-Dive_linux from [here] (https://github.com/sonjageorgievska/Embed-Dive/releases) in the same folder where you have downloaded [Embed_Dive](https://github.com/sonjageorgievska/Embed-Dive). 
@@ -11,7 +13,9 @@ Download the compiled version of Embed-Dive_linux from [here] (https://github.co
 For quick try and test: 
 
     ./Embed_Dive_linux -input test/sim.txt -output test/coord.txt -outdim 3 -samples 1
-    
+ 
+At the end you should be able to see your browser opening the visualization. 
+   
 Required parameteres:
 * `-input`: Input file of similarities (see the test folder for input format).
 * `-output`: Output file of low-dimensional representations.
