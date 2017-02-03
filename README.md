@@ -10,7 +10,7 @@ Download the compiled version of Embed-Dive_linux from [here] (https://github.co
 
 For quick try and test: 
 
-    ./Embed_Dive -input test/sim.txt -output test/coord.txt -outdim 3 -samples 1
+    ./Embed_Dive_linux -input test/sim.txt -output test/coord.txt -outdim 3 -samples 1
     
 Required parameteres:
 * `-input`: Input file of similarities (see the test folder for input format).
